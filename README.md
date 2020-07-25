@@ -2,3 +2,8 @@
 Atari's classic game Breakout as a simple HTML5/JS game
 
 Play it here: https://breakout.recurshawn.repl.co/
+
+
+## Roadmap:
+- [ ] Add levels/difficulty settings
+- [ ] Change colors/theming (maybe?)
